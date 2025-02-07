@@ -35,7 +35,7 @@ const Navbar = () => {
           }}
         >
                     <Link to="/" style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
-            Product Store <FaCartShopping />
+            Product Store 🛒 <FaCartShopping />
           </Link>
         </Text> 
 
