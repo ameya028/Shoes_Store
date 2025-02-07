@@ -22,7 +22,7 @@ const HomePage = () => {
              bgClip={"text"}
              textAlign={"center"}
           >
-            Shoes Store 👟
+            Product Store 🛒
            </Text>   
 
           <SimpleGrid
